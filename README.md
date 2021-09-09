@@ -9,6 +9,10 @@ How to install .
 -   run composer update && php artisan key:generate
 -   run php artisan migrate
 
+#
+
+credits to - https://pqina.nl/filepond/ && https://spatie.be/docs/laravel-medialibrary/v9/introduction
+
 # License & Copyright
 
 © Ace Manalo , Web Developer
